@@ -19,7 +19,7 @@ It also keeps platforms in sync: when one platform changes a PRD, the change is 
 In Claude Code, run:
 
 ```
-/plugin marketplace add <org>/prd-check
+/plugin marketplace add aaron-maestro/prd-check
 /plugin install prd-check@prd-check
 ```
 

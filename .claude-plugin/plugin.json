@@ -1,0 +1,6 @@
+{
+  "name": "prd-check",
+  "version": "1.0.0",
+  "description": "Cross-references a PRD against the codebase, outputs a verification table, and asks the developer whether the code or the PRD needs fixing for each mismatch.",
+  "author": { "name": "Aaron Cleveland" }
+}

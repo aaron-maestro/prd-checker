@@ -1,0 +1,11 @@
+{
+  "name": "prd-check",
+  "owner": { "name": "Aaron Cleveland" },
+  "plugins": [
+    {
+      "name": "prd-check",
+      "source": "./",
+      "description": "Cross-references a PRD against the codebase, outputs a verification table, and asks the developer whether the code or the PRD needs fixing for each mismatch."
+    }
+  ]
+}
